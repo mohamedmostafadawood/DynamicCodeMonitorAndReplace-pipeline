@@ -1,7 +1,7 @@
 # DynamicCodeMonitorAndReplace-pipeline
 
 ## Dynamic Code Loading Monitor
-- This tool is developed to monitor dynamic code loading in Android apps and replace the loaded code with my injected one.
+- This tool is developed to monitor dynamic code loading in Android apps and replace the dynamically loaded code with our injected one.
 
 ### Java/Dex
 - Replaces loaded .dex with agent's dex
