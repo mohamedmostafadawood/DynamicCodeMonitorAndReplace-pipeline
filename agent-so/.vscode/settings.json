@@ -1,0 +1,8 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "C:\\Users\\yusuf\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
+        "ANDROID_ABI": "x86_64",
+        "ANDROID_SYSROOT": "C:\\Users\\yusuf\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot",
+        "CMAKE_BUILD_TYPE": "Release",
+    }
+}

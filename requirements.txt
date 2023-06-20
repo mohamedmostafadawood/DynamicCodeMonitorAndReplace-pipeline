@@ -1,0 +1,4 @@
+androguard
+frida
+frida-tools
+lief
