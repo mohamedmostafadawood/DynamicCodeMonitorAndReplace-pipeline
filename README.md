@@ -48,5 +48,5 @@ d8 --release Agent.class
 - [Frida servers](https://github.com/frida/frida/releases) in frida-servers/ (these will be pushed to device regarding to their ABI automatically)
 - Execute run.py [ WARNING: This will run the app on the connected device]
 ```
-python run.py -a app.apk
+python run.py -a app.apk --verbose
 ```
